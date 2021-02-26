@@ -2421,6 +2421,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 5px;
 			display: block;
+			
 		}
 
 		.image.left, .image.right {
@@ -3097,6 +3098,7 @@ input, select, textarea {
 			margin-bottom: 0;
 			opacity: 1;
 			visibility: visible;
+			margin-top: 2.325em;
 		}
 
 			#header h1 a {
