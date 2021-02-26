@@ -108,7 +108,7 @@ input, select, textarea {
 	}
 
 		body.is-preload-home *, body.is-preload-home *:before, body.is-preload-home *:after {
-			background: url(images/PedraDoTelegrafo-300x109.jpg) no-repeat center center fixed;
+			background-image: url(images/PedraDoTelegrafo-300x109.jpg) center fixed;
 			
 		}
 }
