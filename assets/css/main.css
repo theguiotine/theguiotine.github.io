@@ -108,14 +108,6 @@ input, select, textarea {
 	}
 
 		body.is-preload-home *, body.is-preload-home *:before, body.is-preload-home *:after {
-			-moz-animation: none !important;
-			-webkit-animation: none !important;
-			-ms-animation: none !important;
-			animation: none !important;
-			-moz-transition: none !important;
-			-webkit-transition: none !important;
-			-ms-transition: none !important;
-			transition: none !important;
 			background: url(images/PedraDoTelegrafo-300x109.jpg) no-repeat center center fixed;
 			
 		}
