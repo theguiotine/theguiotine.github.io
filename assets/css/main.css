@@ -107,7 +107,7 @@ input, select, textarea {
  center;
 	}
 
-		body.is-preload-home {
+		body.is-preload {
 			background-image: url(images/PedraDoTelegrafo-300x109.jpg) center fixed;
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
