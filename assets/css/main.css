@@ -3579,11 +3579,11 @@ input, select, textarea {
 			-webkit-transform: translateY(0.5em);
 			-ms-transform: translateY(0.5em);
 			transform: translateY(0.5em);
-			opacity: 0;
+			opacity: 1;
 		}
 
 		body.is-preload-home #banner h2 {
-			opacity: 0;
+			opacity: 1;
 			-moz-transform: translateX(0.25em);
 			-webkit-transform: translateX(0.25em);
 			-ms-transform: translateX(0.25em);
@@ -3595,7 +3595,7 @@ input, select, textarea {
 		}
 
 		body.is-preload-home #banner p {
-			opacity: 0;
+			opacity: 1;
 			-moz-transform: translateX(0.5em);
 			-webkit-transform: translateX(0.5em);
 			-ms-transform: translateX(0.5em);
