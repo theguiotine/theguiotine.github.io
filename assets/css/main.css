@@ -3575,10 +3575,10 @@ input, select, textarea {
 		}
 
 		body.is-preload-home #banner .logo {
-			-moz-transform: translateY(0.5em);
-			-webkit-transform: translateY(0.5em);
-			-ms-transform: translateY(0.5em);
-			transform: translateY(0.5em);
+			-moz-transform: translateY(0em);
+			-webkit-transform: translateY(0em);
+			-ms-transform: translateY(0em);
+			transform: translateY(0em);
 			opacity: 1;
 		}
 
