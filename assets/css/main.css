@@ -3526,7 +3526,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+				
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3575,10 +3575,10 @@ input, select, textarea {
 		}
 
 		body.is-preload-home #banner .logo {
-			-moz-transform: translateY(0em);
-			-webkit-transform: translateY(0em);
-			-ms-transform: translateY(0em);
-			transform: translateY(0em);
+			-moz-transform: translateY(0.5em);
+			-webkit-transform: translateY(0.5em);
+			-ms-transform: translateY(0.5em);
+			transform: translateY(0.5em);
 			opacity: 1;
 		}
 
@@ -3588,10 +3588,7 @@ input, select, textarea {
 			-webkit-transform: translateX(0.25em);
 			-ms-transform: translateX(0.25em);
 			transform: translateX(0.25em);
-			-moz-filter: blur(2px);
-			-webkit-filter: blur(2px);
-			-ms-filter: blur(2px);
-			filter: blur(2px);
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/PedraDoTelegrafo-300x109.jpg");
 		}
 
 		body.is-preload-home #banner p {
@@ -3600,10 +3597,6 @@ input, select, textarea {
 			-webkit-transform: translateX(0.5em);
 			-ms-transform: translateX(0.5em);
 			transform: translateX(0.5em);
-			-moz-filter: blur(2px);
-			-webkit-filter: blur(2px);
-			-ms-filter: blur(2px);
-			filter: blur(2px);
 		}
 		body.is-preload-work #banner .logo {
 			-moz-transform: translateY(0.5em);
