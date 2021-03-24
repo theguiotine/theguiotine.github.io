@@ -112,13 +112,8 @@ input, select, textarea {
 	}
 
 		body.is-preload-home {
-			background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/PedraDoTelegrafo-300x109.jpg");
-		background-size: auto,
- cover;
-		background-attachment: fixed,
-@@ -109,7 +107,34 @@ input, select, textarea {
- center;
+		background-color: #2e3141;
+		background-attachment: fixed,@@ -109,7 +107,34 @@ input, select, textarea {center;
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
 			-ms-animation: none !important;
@@ -128,6 +123,8 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/PedraDoTelegrafo-300x109.jpg");
+		background-size: auto,cover;
 }
 
 		body.is-preload-work *, body.is-preload-work *:before, body.is-preload-work *:after {
